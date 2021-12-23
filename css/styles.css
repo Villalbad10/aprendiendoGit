@@ -7,3 +7,7 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     justify-content: left;
 }
+.cabecera{
+    background-color: steelblue;
+    width: 100%;
+}
